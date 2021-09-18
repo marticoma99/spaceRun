@@ -1,0 +1,16 @@
+data/
+visualstudio/
+xcode
+*.ipch
+Browse.VC.opendb
+visualstudio/.vs/visualstudio/v16/Browse.VC.db
+Makefile
+Makefile.inc
+SDL2.dll
+game.exe
+game.iobj
+game.ipdb
+game.pdb
+game_debug.exe
+game_debug.pdb
+glew32.dll

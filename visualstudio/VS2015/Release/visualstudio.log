@@ -1,0 +1,23 @@
+﻿  entityPlayer.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(29,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(29,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(67,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(74,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(128,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(139,68): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(200,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(247,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(261,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(276,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(277,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  2 of 2775 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\vc120.pdb'; linking object as if no debug info
+  visualstudio.vcxproj -> C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\visualstudio\VS2015\..\..\game.exe

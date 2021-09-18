@@ -1,0 +1,226 @@
+﻿  animation.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\animation.cpp(191,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\animation.cpp(191,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\animation.cpp(275,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\animation.cpp(316,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\animation.cpp(393,26): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\animation.cpp(394,31): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\animation.cpp(412,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\animation.cpp(417,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\animation.cpp(433,36): warning C4244: '=': conversion from '_Ty' to 'int8', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\animation.cpp(374,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  camera.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  entity.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entity.cpp(22,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entity.cpp(39,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entity.cpp(45,23): warning C4018: '<': signed/unsigned mismatch
+  entityMesh.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityMesh.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityMesh.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+  entityPlayer.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(18,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(18,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(43,114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(44,116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(45,133): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(46,134): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityPlayer.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+  entityWheel.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityWheel.cpp(10,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityWheel.cpp(12,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityWheel.cpp(17,133): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityWheel.cpp(18,141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityWheel.cpp(19,166): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityWheel.cpp(20,169): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  entityFuel.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityFuel.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityFuel.cpp(27,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityFuel.cpp(30,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\entityFuel.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+  world.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\world.cpp(94,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\world.cpp(96,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\world.cpp(96,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\world.cpp(97,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\world.cpp(97,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\world.cpp(100,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\world.cpp(116,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\world.cpp(122,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\world.cpp(122,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  box.cpp
+  box_bld.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\extra\coldet\box_bld.cpp(134,21): warning C4018: '<': signed/unsigned mismatch
+  coldet.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\extra\coldet\coldet.cpp(374,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  coldet_bld.cpp
+  math3d.cpp
+  mytritri.cpp
+  sysdep.cpp
+  picopng.cpp
+  textparser.cpp
+  fbo.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\fbo.cpp(112,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\fbo.cpp(113,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\fbo.cpp(143,24): warning C4018: '<': signed/unsigned mismatch
+  framework.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.cpp(46,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.cpp(148,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.cpp(1201,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  game.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\game.cpp(57,29): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\game.cpp(81,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\game.cpp(83,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Compiling...
+  input.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\input.cpp(138,24): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\input.cpp(146,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  light.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\main.cpp(118,46): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\main.cpp(152,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  material.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  mesh.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(731,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(848,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1139,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1143,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1153,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1052,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1254,27): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1255,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1203,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1391,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1391,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1393,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1393,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1394,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1401,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1401,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1403,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1416,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1439,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1468,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\mesh.cpp(1477,21): warning C4018: '<': signed/unsigned mismatch
+  rendertotexture.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  scene.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  shader.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\shader.cpp(177,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\shader.cpp(216,20): warning C4018: '<': signed/unsigned mismatch
+  texture.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(15,51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(15,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(16,56): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(16,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(21,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(22,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(29,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(29,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(30,57): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(30,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(35,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(36,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(119,125): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(240,94): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(240,87): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(261,102): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(261,94): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(261,87): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(284,111): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(284,104): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(483,18): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(484,19): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(502,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(498,12): warning C4101: 'bytesPerPixel': unreferenced local variable
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\texture.cpp(615,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  utils.cpp
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(83,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(138,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(139,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(287,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(288,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(313,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(323,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(345,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(347,17): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(360,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(369,14): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(409,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(410,59): warning C4244: 'argument': conversion from '_Ty' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(410,44): warning C4244: 'argument': conversion from '_Ty' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(410,29): warning C4244: 'argument': conversion from '_Ty' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(420,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(421,74): warning C4244: 'argument': conversion from '_Ty' to 'uint8', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(421,59): warning C4244: 'argument': conversion from '_Ty' to 'uint8', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(421,44): warning C4244: 'argument': conversion from '_Ty' to 'uint8', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\src\utils.cpp(421,29): warning C4244: 'argument': conversion from '_Ty' to 'uint8', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  tritri.c
+     Creating library ..\..\game.lib and object ..\..\game.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  2169 of 2169 functions (100.0%) were compiled.
+    18 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  visualstudio.vcxproj -> C:\Users\marti\Desktop\joc 3d\TJE_framework_2020\visualstudio\VS2015\..\..\game.exe
